@@ -1,0 +1,2 @@
+# premium-normalize-001-normalizing-heat-treat-grain
+Tired of inconsistent results from your heat treat cycles because your notes are scattered across sticky notes and forgotten bench papers?  The Normalizing Heat Treat &amp; Grain Refine Craft Lab is a Notion template that brings the discipline of a professional metallurgy lab to your workshop. It centralizes every normalizing, heat treating, and grain
